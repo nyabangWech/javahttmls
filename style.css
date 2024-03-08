@@ -8,7 +8,7 @@
     margin:5%;
     gap:10%;
 }#smooth{
-    background-image: url(images/images (20).jpeg);
+    background-image: url(images/images (16).jpeg);
     
 }.p{
     text-decoration:black;
@@ -29,7 +29,14 @@ text-decoration-color: chocolate;
 }.text{
     text-decoration-color: chocolate;
 }#button{
-    border-radius: 4px;
-    padding: 4px;
-    border: orangered;
+
+    
+    
+}#icons{
+    display:flex;
+    gap:2px;
+}#insurance{
+    display:flex;
+    gap:5%;
 }
+    
