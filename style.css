@@ -1,0 +1,35 @@
+#container{
+ gap:5%   
+    
+}.phone{
+    gap:5%;
+}#topnavbar{
+    display:flex;
+    margin:5%;
+    gap:10%;
+}#smooth{
+    background-image: url(images/images (20).jpeg);
+    
+}.p{
+    text-decoration:black;
+    text-size-adjust: 4px;
+}.h1{
+    text-size-adjust: 5px;
+    text-decoration: black;
+}#about{
+
+text-decoration-color: chocolate;
+}#moving{
+    text-decoration-color: brown;
+
+}.h1{
+    text-decoration-color: blanchedalmond;
+}.image{
+    
+}.text{
+    text-decoration-color: chocolate;
+}#button{
+    border-radius: 4px;
+    padding: 4px;
+    border: orangered;
+}
